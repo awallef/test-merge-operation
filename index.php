@@ -1,5 +1,5 @@
 <?php
 
-echo 'youpi_master_a';
+echo 'youpi_master_b';
 
 ?>
